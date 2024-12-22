@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\VeterinerProje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C647A30C-92C7-49B9-8284-B81F13D5961F}|VeterinerProje.csproj|c:\\c#\\veterinerproje\\formpersoneller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C647A30C-92C7-49B9-8284-B81F13D5961F}|VeterinerProje.csproj|solutionrelative:formpersoneller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C647A30C-92C7-49B9-8284-B81F13D5961F}|VeterinerProje.csproj|C:\\c#\\VeterinerProje\\formgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C647A30C-92C7-49B9-8284-B81F13D5961F}|VeterinerProje.csproj|solutionrelative:formgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C647A30C-92C7-49B9-8284-B81F13D5961F}|VeterinerProje.csproj|C:\\c#\\VeterinerProje\\formgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C647A30C-92C7-49B9-8284-B81F13D5961F}|VeterinerProje.csproj|solutionrelative:formgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C647A30C-92C7-49B9-8284-B81F13D5961F}|VeterinerProje.csproj|C:\\c#\\VeterinerProje\\formpersoneller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C647A30C-92C7-49B9-8284-B81F13D5961F}|VeterinerProje.csproj|solutionrelative:formpersoneller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C647A30C-92C7-49B9-8284-B81F13D5961F}|VeterinerProje.csproj|C:\\c#\\VeterinerProje\\formhastalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C647A30C-92C7-49B9-8284-B81F13D5961F}|VeterinerProje.csproj|solutionrelative:formhastalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C647A30C-92C7-49B9-8284-B81F13D5961F}|VeterinerProje.csproj|C:\\c#\\VeterinerProje\\formhastalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C647A30C-92C7-49B9-8284-B81F13D5961F}|VeterinerProje.csproj|solutionrelative:formhastalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C647A30C-92C7-49B9-8284-B81F13D5961F}|VeterinerProje.csproj|C:\\c#\\VeterinerProje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C647A30C-92C7-49B9-8284-B81F13D5961F}|VeterinerProje.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormHastalar.cs",
+              "DocumentMoniker": "C:\\c#\\VeterinerProje\\FormHastalar.cs",
+              "RelativeDocumentMoniker": "FormHastalar.cs",
+              "ToolTip": "C:\\c#\\VeterinerProje\\FormHastalar.cs",
+              "RelativeToolTip": "FormHastalar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T22:11:15.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormHastalar.cs [Design]",
+              "DocumentMoniker": "C:\\c#\\VeterinerProje\\FormHastalar.cs",
+              "RelativeDocumentMoniker": "FormHastalar.cs",
+              "ToolTip": "C:\\c#\\VeterinerProje\\FormHastalar.cs [Design]",
+              "RelativeToolTip": "FormHastalar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:40:18.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormGiris.cs",
+              "DocumentMoniker": "C:\\c#\\VeterinerProje\\FormGiris.cs",
+              "RelativeDocumentMoniker": "FormGiris.cs",
+              "ToolTip": "C:\\c#\\VeterinerProje\\FormGiris.cs",
+              "RelativeToolTip": "FormGiris.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAnwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:01:35.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormGiris.cs [Design]",
+              "DocumentMoniker": "C:\\c#\\VeterinerProje\\FormGiris.cs",
+              "RelativeDocumentMoniker": "FormGiris.cs",
+              "ToolTip": "C:\\c#\\VeterinerProje\\FormGiris.cs [Design]",
+              "RelativeToolTip": "FormGiris.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:45:04.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPersoneller.cs",
+              "DocumentMoniker": "C:\\c#\\VeterinerProje\\FormPersoneller.cs",
+              "RelativeDocumentMoniker": "FormPersoneller.cs",
+              "ToolTip": "C:\\c#\\VeterinerProje\\FormPersoneller.cs",
+              "RelativeToolTip": "FormPersoneller.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAArwKMAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:34:52.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\VeterinerProje\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\c#\\VeterinerProje\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:31:13.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormPersoneller.cs [Design]",
+              "DocumentMoniker": "C:\\c#\\VeterinerProje\\FormPersoneller.cs",
+              "RelativeDocumentMoniker": "FormPersoneller.cs",
+              "ToolTip": "C:\\c#\\VeterinerProje\\FormPersoneller.cs [Design]",
+              "RelativeToolTip": "FormPersoneller.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:32:12.704Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
